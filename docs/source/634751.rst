@@ -1,0 +1,67 @@
+.. include:: global.rst
+  
+SMART-Seq® Stranded Custom Components
+=====
+
+Catalog No.: 634751
+
+Amount: 768 rxns
+
+Lot Number: Master
+
+Description
+------------
+
+The SMART-Seq Stranded Kit Components are used to generate strand-specific RNA-seq libraries for Illumina® sequencing from 1–1,000 cells or 10 pg–10 ng of purified total RNA. This kit incorporates Takara Bio’s SMART® (Switching Mechanism at the 5ʹ end of RNA Template) technology and includes refinements for stranded RNA-seq that simplify the library preparation workflow and improve sequencing performance. Reverse transcription is initiated using random priming, thus capturing the full transcriptome instead of only the polyadenylated fraction. The kit does not require additional rRNA removal methods and produces sequencing libraries that retain strand-of-origin information, yielding data that is highly reproducible with low mapping to rRNA.
+
+Package Contents
+----------------
+
+**Package 1**
+
+* 825 µl SMART UMI-TSO Mix v3
+* 160 µl scR-Probes
+* 5 µl Control Total RNA (1 µg/µl)
+
+**Package 2**
+
+* 160 µl scZapR
+* 180 µl SMART scN6
+* 700 µl scRT Buffer
+* 110 µl RNase Inhibitor (40 U/µl)	
+* 400 µl ZapR™ Buffer (10X)	
+* 400 µl PCR2 Primers
+* 400 µl SeqAmp™ DNA Polymerase	
+* 10 ml SeqAmp CB PCR Buffer (2X)
+* 1 ml 10X Lysis Buffer
+* 10 ml Nuclease-Free Water	
+* 375 µl SMARTScribe™ II Reverse Transcriptase (100 U/µl)
+
+Storage Conditions
+------------------
+* Store Package 1 at –70°C.
+* Store Package 2 at –20°C.
+* Do not freeze scR-Probes more than 3 times. We recommend aliquoting scR-Probes into multiple vials to avoid repeated freeze/thaw cycles.
+
+Expiration Date
+---------------
+* MMM DD, YYYY
+
+Shipping Conditions
+-------------------
+* Dry ice
+
+Product Documents
+------------------
+Documents for our products are available for download at `takarabio.com/manuals <https://www.takarabio.com/manuals>`_
+
+Quality Control Data
+--------------------
+
+To assess the quality of the reagents in the SMART-Seq Stranded Custom Components, the subcomponents in the kit were tested separately as per their individual QC protocols as described below. The kit with the mentioned custom components was not tested by generating libraries and subsequently sequencing the libraries.
+
+To assess the quality of the reagents in the SMART-Seq Stranded Custom Components (except SMART UMI-TSO Mix v3 and SMARTScribe II Reverse Transcriptase), 10 pg of Control Total RNA (human brain) was converted to an Illumina-ready cDNA sequencing library as described in the SMART-Seq Stranded Kit User Manual. RT enzyme and TSO mix from the SMART-Seq Stranded Kit Components (Takara Bio, Cat. No. 634447) were used to generate cDNA, and 10 cycles in PCR 1 and 13 cycles in PCR 2 were used for PCR amplification. Purified libraries were quantified using the Qubit 2.0 Fluorometer (Life Technologies) with a dsDNA HS Assay Kit (Thermo Fisher Scientific, Cat. No. Q32851), resulting in an output of at least 3 ng/μl. Libraries were diluted to 1.5 ng/μl, and 1 μl of the dilution was analyzed with an Agilent Bioanalyzer using the High Sensitivity DNA Kit (Agilent, Cat. No. 5067-4626). The Bioanalyzer electropherogram showed a broad distribution from 200 bp–2,000 bp with a peak summit between 300–400 bp and an average size in the 350–510 bp range. The libraries were sequenced on an Illumina platform and confirmed to contain less than 15% of the reads mapping to rRNA (5S, 5.8S, 18S, and 28S) and less than 2% of the reads mapping to mitochondrial ribosomal RNA (m12S and m16S).
+
+The SMART UMI-TSO Mix v3 and SMARTScribe II RT were tested using components of SMARTer® Stranded Total RNA-Seq Kit v3 - Pico Input Mammalian Components (Takara Bio, Cat. No. 634491). 250 pg of Control Total RNA (human brain) was converted to an Illumina-ready cDNA sequencing library as described in the SMARTer Stranded Total RNA-Seq Kit v3 - Pico Input Mammalian User Manual, using 5 cycles in PCR 1 and 16 cycles in PCR 2 steps. Purified libraries were quantified using the Qubit 2.0 Fluorometer with a dsDNA HS Assay Kit, resulting in an output of at least 4 ng/μl. Libraries were diluted to 2 ng/μl, and 1 μl of the dilution was analyzed with an Agilent Bioanalyzer and High Sensitivity DNA Kit The Bioanalyzer electropherogram showed a broad distribution from 200 bp–1,000 bp with an average size in the 350–510 bp range.
+
+It is certified that this product meets the above specifications, as reviewed and approved by the Quality Department.
