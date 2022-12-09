@@ -1,7 +1,7 @@
 .. include:: global.rst
   
 SMART-Seq® Stranded Custom Components
-=====
+=====================================
 
 Catalog No.: 634751
 
