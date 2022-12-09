@@ -1,5 +1,3 @@
-.. include:: global.rst
-  
 SMART-Seq® Stranded Custom Components
 =====================================
 
